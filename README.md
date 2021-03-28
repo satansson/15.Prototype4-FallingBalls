@@ -1,4 +1,4 @@
-# 15.Prototype4-FallingBalls
+# 15.Prototype4 - Falling Balls
 
 This is my fourth project of 'Create whith Code' course on Unity Learn site.
 It also contains a challenge where I've managed to fix all bugs.
